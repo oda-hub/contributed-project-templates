@@ -29,11 +29,11 @@
   variables: {}
   icon: python-minimal.png
 
-- folder: mmoda
-  name: MMODA
-  description: Quick-start template for MMODA workflow
-  variables: {}
-  icon: mmoda.png
+  #- folder: mmoda
+  #  name: MMODA
+  #  description: Quick-start template for MMODA workflow
+  #  variables: {}
+  #  icon: mmoda.png
 
 #- folder: python-heasoft-osa
 #  name: Python (3.9) HEASoft (6.29c) OSA (11.2+)
