@@ -28,13 +28,15 @@
   description: The simplest Python-3.9-based renku project with a basic directory structure and necessary supporting files.
   variables: {}
   icon: python-minimal.png
+
 - folder: mmoda
   name: MMODA
   description: Quick-start template for MMODA workflow
   variables: {}
   icon: mmoda.png
-- folder: python-heasoft-osa
-  name: Python (3.9) HEASoft (6.29c) OSA (11.2+)
-  description: Software useful for High-Energy Astrophysics
-  variables: {}
-  icon: python-osa-heasoft.png
+
+#- folder: python-heasoft-osa
+#  name: Python (3.9) HEASoft (6.29c) OSA (11.2+)
+#  description: Software useful for High-Energy Astrophysics
+#  variables: {}
+#  icon: python-osa-heasoft.png
