@@ -32,7 +32,11 @@
 - folder: mmoda
   name: MMODA/SmartSky
   description: Live Astrophysical Workflows
-  variables: {}
+  variables:
+    __namespace__:
+      description: namespace
+      type: string
+      default_value: astronomy/mmoda
   icon: mmoda.png
 
 - folder: python-heasoft-osa
